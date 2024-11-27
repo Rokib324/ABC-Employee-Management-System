@@ -1,0 +1,10 @@
+1,Md Rokibul Islam,Jr Python Developer,IT,25000
+2,Anik,Developer,IT,25000
+3,Shamim,Senior Python Developer,IT,45000
+5,Fariha,Data Analyst,Data Science,35000
+6,Asif,Junior Data Scientist,Data Science,28000
+7,Amira,Project Manager,Management,55000
+8,Mohammad,R&D Engineer,Engineering,48000
+11,Jony,Salesman,Sales,25000.0
+12,Shahadat Hossain,Marketer,Marketing,20500.0
+13,Md. Saifullah Al Mamun,Senior Executive- HR & Admin,Management,100000.0
